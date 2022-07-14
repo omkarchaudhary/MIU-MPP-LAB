@@ -1,0 +1,15 @@
+Write a short essay discussing the relationship between an SCI principle
+of your choosing and a Computer Science principle that is relevant for
+this MPP course. Richer content will be awarded more credit.
+
+At the end of this course, i can relate the this course with many principles of SCI.
+We can relate the inheritance in our real life scenario that peoples's behavior is inherited from 
+their parents and from their home which directly impact the environment. Likewise, our intelligence is abstracted from 
+the universe and we implement it in daily life like abstract class in Java. In addition, principle we learn Java
+Inner class is can inherit all the properties from outer class is same as principle outer depends upon inner in SCI
+as our outer activities and behavior that we do in daily activities directly based upon inner behavior. If our inner 
+is full of stress and tension than we cannot move ahead and gain a progress in life. To make our inner out of stress and
+to be healthy in life Transcendental meditation is really important it really helps to balance the body and mind.
+
+
+ 

@@ -1,0 +1,34 @@
+Write a short essay discussing the relationship between an SCI principle
+of your choosing and a Computer Science principle that is relevant for
+this MPP course. Richer content will be awarded more credit.
+
+
+ SCI and Modern Programming Practises are quite much similar in many ways. The five main principles of SCI are as follows:
+
+ 1. Growth
+ 2. Stability
+ 3. Purification
+ 4. Integration
+ 5. Adaptibility
+
+ We will describe further the MPP with regards to the points above.
+
+ 1. Growth: The nature of life is to grow. So, is the software. If software are well maintained and code can be separated into proper
+ modules and a good abstraction can be used which helps for the growth and maintainability of modern softwares. The courses goes through
+ many advanced concept which helps in maintaining a big software.
+
+ 2. Stability: Life need to be stable in order to be achieve the goals and success. Thus, stability is a must not just in the life but also in
+ software. The software is stable only if the code are properly unit tested and the programmer understand the basics behind how apis of
+ the language and how compiler can be a friend. The course provided me with the capabilities to write proper unit tested code.
+
+ 3. Purification: As in life, purification is and an essential part of the software development. The software have bugs in them, the old apis
+ deprecate and new way of writing the software evolve with time.
+
+ 4. Integration: Similar to what we are taught in the SCI course, integration is one of the most essential part of writing the software. Many modules and packages
+ of softwares are integrated to create a bigger applications.
+
+ 5. Adaptability: Adaptability is as essential in the software, since growing software demands changes to the api, packages and ofcourse with new
+ api and design requirement, the software need to adapt to the changes.
+
+
+ Thus, software and MPP courses in particular is quite related to all the principles of the SCI.
